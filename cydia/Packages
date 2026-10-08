@@ -1,0 +1,31 @@
+Package: anondev.LocalIAPStore
+Version: 1.4-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: debs/anondev.LocalIAPStore_1.4-1_iphoneos-arm.deb
+Size: 71170
+MD5sum: adce93b64675706f4a4c4b5204a1e8fe
+SHA1: c9bb6d2749f5d065e9c29a2a39cf233a3a1465d2
+SHA256: 97d20ebc8f9d96da6f4749499be4664d7ab946d469439b7ab04af1e167afaca2
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 7.1 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Author: anondev
+Name: LocalIAPStore
+
+Package: bag.xml.sigpass
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: bag.xml
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/bag.xml.sigpass_0.0.1-9+debug_iphoneos-arm.deb
+Size: 5780
+MD5sum: 6906f706ca8c9a02144aec2995d4c3f4
+SHA1: b16f0fa4c362edd58795e1c2176af9075fbeab98
+SHA256: 7db3d5cf2d43d3b05b2719d9a3871f05bd038311336f2dde3f585cb08607ad1b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: bag.xml
+Name: SigPass
+
